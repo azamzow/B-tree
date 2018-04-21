@@ -21,7 +21,7 @@ Using terminal on Mac,
 ```
 // To run java B-tree
 $ cd B-tree
-$ cd SearchB-tree_java
+$ cd SearchB-tree java
 $ javac SearchBtree.java
 $ java SearchBtree
 ```
@@ -29,7 +29,7 @@ $ java SearchBtree
 ```
 //To run python B-tree
 $ cd B-tree
-$ cd SearchB-Tree_python
+$ cd SearchB-Tree python
 $ python ./b-tree2.py
 ```
 
@@ -41,8 +41,8 @@ In SearchB-tree_java file, you have a b-tree that consists of a root, and two le
 
 ​	If the key is found, the program returns the level it searched and the record it was on in that level. For Ex: If I were looking for 3. That would be on level 2, the first record (assuming we start counting the records at 0) as shown below...
 
-![output](https://github.com/azamzow/B-tree/SearchB-tree_java/blob/master/output.png?raw=true)
+![output](https://github.com/azamzow/B-tree/SearchB-tree\java/blob/master/output.png?raw=true)
 
 
 
-In SearchB-tree_Python file, you have a b-tree that you create in the main file using the method names .insert(). Doing this, creates the b-tree. Finally after the b-tree is created, you use the method named .search(). Doing this, searches the b-tree and prints out if the key is in the tree or not. If it isnt in the tree, then your program will print out 'False'. If it is found however, the program will output the entire tree, and when it is done it will print NONE and terminate as shown in below![output](https://github.com/azamzow/B-tree/SearchB-tree_python/blob/master/output.png?raw=true)
+In SearchB-tree_Python file, you have a b-tree that you create in the main file using the method names .insert(). Doing this, creates the b-tree. Finally after the b-tree is created, you use the method named .search(). Doing this, searches the b-tree and prints out if the key is in the tree or not. If it isnt in the tree, then your program will print out 'False'. If it is found however, the program will output the entire tree, and when it is done it will print NONE and terminate as shown in below![output](https://github.com/azamzow/B-tree/SearchB-tree\python/blob/master/output.png?raw=true)

@@ -16,7 +16,7 @@ This project implements a b-tree in both java and python. A b-tree is a self-bal
 
 ### To Run
 
-You can double click hello termianl already made, or Using terminal on Mac,
+Using terminal on Mac,
 
 ```
 // To run java B-tree

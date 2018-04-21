@@ -47,8 +47,7 @@ In SearchB-tree_java file, you have a b-tree that consists of a root, and two le
 
 In SearchB-tree_Python file, you have a b-tree that you create in the main file using the method names .insert(). Doing this, creates the b-tree. Finally after the b-tree is created, you use the method named .search(). Doing this, searches the b-tree and prints out if the key is in the tree or not. If it isnt in the tree, then your program will print out 'False'. If it is found however, the program will output the entire tree, and when it is done it will print NONE and terminate as shown in below
 
-<<<<<<< HEAD
+
 ![output](https://github.com/azamzow/B-tree/SearchB-tree_python/blob/master/output.png?raw=true)
-=======
+
 ![output](https://github.com/azamzow/B-tree/SearchB-tree%20python/blob/master/output.png?raw=true)
->>>>>>> 6810d8f56bf791931c2e6f96044b142349234069

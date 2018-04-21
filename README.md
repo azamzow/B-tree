@@ -41,7 +41,7 @@ In SearchB-tree_java file, you have a b-tree that consists of a root, and two le
 
 ​	If the key is found, the program returns the level it searched and the record it was on in that level. For Ex: If I were looking for 3. That would be on level 2, the first record (assuming we start counting the records at 0) as shown below...
 
-![output](https://github.com/azamzow/B-tree/SearchB-tree_java/blob/output.png?raw=true)
+![output](https://github.com/azamzow/B-tree/SearchB-tree_java/output.png?raw=true)
 
 
 

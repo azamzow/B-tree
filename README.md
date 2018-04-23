@@ -2,7 +2,8 @@
 
 ### Description
 
-This project implements a b-tree in both java and python. It creates a b-tree and also searches the b-tree for any keys entered. A b-tree is a self-balancing search tree. It has a parent node called root and child nodes called leaves. 
+This project implements a b-tree in both java and python. It supports the operations: insert(), and search(). 
+A b-tree is a self-balancing search tree. It has a parent node called root and child nodes called leaves. 
 
 **Properties of B-Tree**
 1) All leaves are at same level.
